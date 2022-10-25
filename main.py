@@ -20,7 +20,7 @@ import urllib.request
 def create_data():
     """Creates the data."""
     data = {}
-    data['API_key'] = 'AIzaSyAAzZ23wiCv3nBGsLNmzJfXIV2O3GBT-fI'
+    data['API_key'] = ''
     data['addresses'] = ['29.982900,31.321331',
                          '30.032718,31.410320',
                          '29.961815,31.302602',
